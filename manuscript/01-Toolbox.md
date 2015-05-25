@@ -1,9 +1,12 @@
 interactions
-  hover
   click
-  click & drag
   double click
-  expand
+  hover
+  click & drag
+  touch
+  touch and hold
+  swipe
+  keypress
 variation
   color (don’t use alone - only for emphasis / doubling)
   weight (thick, thin, emphasis, bold)
@@ -18,6 +21,12 @@ controls
   brush
   button
   radio
+events
+  expand / collapse
+  popup
+  disable
+
 
 
 “Including human readable sentences is critical for understanding more complex visualizations.” Why? Because there are billions of possibilities and they have to be interpreted. Allowing people to control the visualization and giving them the statements decreases the thought they have to do, and improves their confidence in what stories they will tell to others.
+
