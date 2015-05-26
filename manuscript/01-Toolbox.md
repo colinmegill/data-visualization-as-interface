@@ -1,3 +1,5 @@
+# Toolbox
+
 interactions
   click
   double click
@@ -28,5 +30,5 @@ events
 
 
 
-“Including human readable sentences is critical for understanding more complex visualizations.” Why? Because there are billions of possibilities and they have to be interpreted. Allowing people to control the visualization and giving them the statements decreases the thought they have to do, and improves their confidence in what stories they will tell to others.
+"Including human readable sentences is critical for understanding more complex visualizations." Why? Because there are billions of possibilities and they have to be interpreted. Allowing people to control the visualization and giving them the statements decreases the thought they have to do, and improves their confidence in what stories they will tell to others.
 
