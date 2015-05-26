@@ -1,6 +1,6 @@
 # Introduction
 
-### Prelude by example
+### The scope, by example
 
 Data visualization are becoming a richly interactive interfaces. Studying how to get this right, by way of critical case studies, is the topic of this book. For example, go take a look at [Redfin](http://redfin.com). It is:
 
