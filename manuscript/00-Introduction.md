@@ -42,8 +42,9 @@ constitutes a new kind of sight, like seeing in infrared, that allows us to expl
 
 This is different than a bar chart, where we have two dimensions - when we have n dimensions sorting and filtering become much more powerful correlation machine. 
 
-![xkcd on Correlation](http://imgs.xkcd.com/comics/correlation.png "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
+> "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'."
 
+![xkcd on Correlation](http://imgs.xkcd.com/comics/correlation.png "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
 
 These data sets are not live, they are static. Entirely new worlds emerge when we hook the visualization up to live data sets.
 
