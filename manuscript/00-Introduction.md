@@ -38,13 +38,16 @@ Similarly, we can tell many stories about cars built in the 70’s and early 80�
 
 Another advantage: we can see patterns that emerge in aggregate. It looks like on average, cars take about 16 seconds to accelerate to 60mph.
 
+constitutes a new kind of sight, like seeing in infrared, that allows us to explore and tell the stories we are interested in, at will, given massvie amounts of correlated data. It is a way to peer into institutions in their present state, and see how that present state compares over time.
+
+This is different than a bar chart, where we have two dimensions - when we have n dimensions sorting and filtering become much more powerful correlation machine. 
+
+![xkcd on Correlation](http://imgs.xkcd.com/comics/correlation.png "Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.")
 
 
 These data sets are not live, they are static. Entirely new worlds emerge when we hook the visualization up to live data sets.
 
 Similarly in principle, but vastly different in practice, is the Redfin web application. 
-
-
 
 The visualization, which is the core of the application experience, has every house in their system on one map. It has no opinion on where I live - that is abstracted into a control - or how much money I have to spend - that is too. Pity the poor real-estate catalog printers who distribute custom reports of available houses to people’s mailboxes. Pity the consumer of the information, where the information must be repeated over and over again, and irrelevant information is never removed to lessen the amount one must scan. And finally pity the trees.
 
